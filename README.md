@@ -33,7 +33,7 @@ xxT is a BASH based Tools installer Tool, Its used to install tool on few clicks
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/T33kayX/xxT
+* `git clone https://github.com/Teekay-X/xxT`
 * `cd $HOME`
 * `ls`
 * `cd xxT`
